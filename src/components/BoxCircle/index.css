@@ -1,0 +1,8 @@
+.circle-wrap {
+  display: -webkit-box;
+  border-radius: 50%;
+}
+.circle {
+  -webkit-box-flex: 1;
+  border-style: solid;
+}
